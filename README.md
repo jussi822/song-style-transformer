@@ -1,6 +1,6 @@
 # Song style transformer
 
-Project to experiment with editing songs towards a selected style, e.g. more Mozart-like
+Project to experiment with editing pieces of music or other audio towards a selected style, e.g. more bird song like.
 
 ## Summary
 
