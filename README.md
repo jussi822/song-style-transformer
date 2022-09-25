@@ -6,7 +6,7 @@ Project to experiment with editing songs towards a selected style, e.g. more Moz
 
 Take any piece of music and apply a selected filter to edit it. 
 Filters can be built by user by feeding any set of songs they like
-
+Building AI course project
 
 ## Background
 
